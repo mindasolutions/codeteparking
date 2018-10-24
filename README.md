@@ -6,7 +6,7 @@ API used POST request method to works, for example:
 
 http://minda.pl/codete/api/parkBus - adding vehicle only on POST request method
 
-All API methods:
+<b>All API methods:</b><br/>
 parkBus<br/>
 parkCar<br/>
 parkMotocycle<br/>
